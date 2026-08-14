@@ -4,12 +4,12 @@ A beginner-friendly JavaScript repository for learning and practicing **Arrays**
 
 ## 📂 Files
 
-| File                                                                                  | Description                     |
-| ------------------------------------------------------------------------------------- | ------------------------------- |
-| [`basics_1.js`](https://github.com/Rehan-1698/javascript_Arr/blob/main/basics_1.js)   | Basic JavaScript array concepts |
-| [`basic_2.js`](https://github.com/Rehan-1698/javascript_Arr/blob/main/basic_2.js)     | Additional array practice       |
-| [`problem_1.js`](https://github.com/Rehan-1698/javascript_Arr/blob/main/problem_1.js) | Array problem-solving practice  |
-| [`problem-2.js`](https://github.com/Rehan-1698/javascript_Arr/blob/main/problem-2.js) | More array-based problems       |
+| File             | Description                     |
+| ---------------- | ------------------------------- |
+| [`basics_1.js`]  | Basic JavaScript array concepts |
+| [`basic_2.js`]   | Additional array practice       |
+| [`problem_1.js`] | Array problem-solving practice  |
+| [`problem-2.js`] | More array-based problems       |
 
 ## 🎯 Purpose
 
